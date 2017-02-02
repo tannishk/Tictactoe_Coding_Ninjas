@@ -1,6 +1,6 @@
 # TicTacToe App 
 
-A Simple TicTacToe App Calculator inspired by IOS Calculator 
+A Simple TicTacToe App  
 
 ### Prerequisites
 
@@ -21,7 +21,7 @@ Android v5
 
 ## Authors
 
-* **Tannishk Sharma** - *Initial work* - [PurpleBooth](https://github.com/tannishk)
+* **Tannishk Sharma** - *Initial work* - [Tannishk](https://github.com/tannishk)
 
 
 ## License
